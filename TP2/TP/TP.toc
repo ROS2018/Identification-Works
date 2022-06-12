@@ -1,0 +1,36 @@
+\select@language {french}
+\contentsline {section}{\numberline {I}Identification d'un processus simul\IeC {\'e}:}{2}{section.1}
+\contentsline {subsection}{\numberline {i}Fonction Matlab (simulsyst) qui permet de simuler le syst\IeC {\`e}me}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {ii}Simulation du syst\IeC {\`e}me}{2}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {ii.1}degr\IeC {\'e} de persistance}{3}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {ii.2}La r\IeC {\'e}ponse fr\IeC {\'e}quentielle du syst\IeC {\`e}me:}{3}{subsubsection.1.2.2}
+\contentsline {subsubsection}{\numberline {ii.3}Le spectre du signale d'entr\IeC {\'e}e SBPA:}{4}{subsubsection.1.2.3}
+\contentsline {subsubsection}{\numberline {ii.4}Le spectre du signale de sortie:}{4}{subsubsection.1.2.4}
+\contentsline {subsection}{\numberline {iii}Identification du syst\IeC {\`e}me}{5}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {iii.1}Moindres carr\IeC {\'e}s ordinaires}{5}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {iii.2}Variable instrumentale \IeC {\'a} quatre \IeC {\'e}tages}{5}{subsubsection.1.3.2}
+\contentsline {subsubsection}{\numberline {iii.3}Maximum de vraisemblance}{5}{subsubsection.1.3.3}
+\contentsline {subsubsection}{\numberline {iii.4}M\IeC {\'e}thode d'erreur de sortie}{6}{subsubsection.1.3.4}
+\contentsline {subsection}{\numberline {iv}La fonction validation(modex,modid)}{7}{subsection.1.4}
+\contentsline {subsection}{\numberline {v}Moindre carr\IeC {\'e}}{7}{subsection.1.5}
+\contentsline {subsection}{\numberline {vi}M\IeC {\'e}thode de variable instrumentale}{8}{subsection.1.6}
+\contentsline {subsection}{\numberline {vii}M\IeC {\'e}thode de maximum vraisemblance}{8}{subsection.1.7}
+\contentsline {subsection}{\numberline {viii}M\IeC {\'e}thode de l'erreur de sortie}{8}{subsection.1.8}
+\contentsline {subsection}{\numberline {ix}La fonction analyse(modex,modid)}{8}{subsection.1.9}
+\contentsline {section}{\numberline {II}Identification d'une maquette d'asservissement de position}{8}{section.2}
+\contentsline {subsection}{\numberline {i}Mod\IeC {\'e}lisation du processus}{8}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {i.1}La fonction de transfert entre Z et la consigne}{8}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {i.2}La forme de la fonction de transfert discr\IeC {\'e}te entre Z et la consigne}{9}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {i.3}Identification du processus}{9}{subsubsection.2.1.3}
+\contentsline {subsubsection}{\numberline {i.4}Les param\IeC {\`e}tres de la fonction de transfert}{9}{subsubsection.2.1.4}
+\contentsline {subsubsection}{\numberline {i.5}Identification en utilisant la fonction de transfert discr\IeC {\`e}te}{9}{subsubsection.2.1.5}
+\contentsline {subsubsection}{\numberline {i.6}Validation}{10}{subsubsection.2.1.6}
+\contentsline {subsection}{\numberline {ii}Identification direct en utilisant }{11}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {ii.1}Validation}{11}{subsubsection.2.2.1}
+\contentsline {subsection}{\numberline {iii}Identification direct en utilisant la fonction idgrey et pem}{11}{subsection.2.3}
+\contentsline {section}{\numberline {III}Identification d'un syst\IeC {\`e}me acoustique}{12}{section.3}
+\contentsline {subsection}{\numberline {i}d\IeC {\'e}couplage de donn\IeC {\'e}es en trois parties}{12}{subsection.3.1}
+\contentsline {subsection}{\numberline {ii}identification le mod\IeC {\`e}les \IeC {\'a} temps discret \IeC {\'a} partir de chaque jeu de donn\IeC {\'e}es}{13}{subsection.3.2}
+\contentsline {subsection}{\numberline {iii}Validation crois\IeC {\'e}e:}{13}{subsection.3.3}
+\contentsline {subsection}{\numberline {iv}La r\IeC {\'e}ponse impulsionnelle}{13}{subsection.3.4}
+\contentsline {subsection}{\numberline {v}Identification pour plusieurs ordres de mod\IeC {\`e}les}{14}{subsection.3.5}
