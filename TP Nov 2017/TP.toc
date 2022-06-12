@@ -1,0 +1,20 @@
+\select@language {french}
+\contentsline {section}{\numberline {I}Le signale \IeC {\'a} filtrer:}{2}{section.1}
+\contentsline {section}{\numberline {II}Filtrage pas-bas analogique}{2}{section.2}
+\contentsline {subsection}{\numberline {i}L'ordre de chaque filtre}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {ii}les r\IeC {\'e}ponses fr\IeC {\'e}quentielles en amplitude des quatre filtres}{2}{subsection.2.2}
+\contentsline {subsection}{\numberline {iii}Filtrage du signal audio}{3}{subsection.2.3}
+\contentsline {subsection}{\numberline {iv}Le graphe de l'allure de la gamme filtr\IeC {\'e}e dans le domaine temporel et fr\IeC {\'e}quentiel}{4}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {iv.1}L'allure dans le domaine temporel}{4}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {iv.2}Le spectre d'amplitude de la gamme filtr\IeC {\'e}e}{5}{subsubsection.2.4.2}
+\contentsline {subsection}{\numberline {v}Modification de le bande de transition}{6}{subsection.2.5}
+\contentsline {subsubsection}{\numberline {v.1}L'ordre de chaque filtre}{6}{subsubsection.2.5.1}
+\contentsline {subsubsection}{\numberline {v.2}les r\IeC {\'e}ponses fr\IeC {\'e}quentielles en amplitude des quatre filtres}{6}{subsubsection.2.5.2}
+\contentsline {subsubsection}{\numberline {v.3}L'allure de la gamme filtr\IeC {\'e}e dans le domaine temporel}{6}{subsubsection.2.5.3}
+\contentsline {subsubsection}{\numberline {v.4}L'allure de la gamme filtr\IeC {\'e}e dans le domaine fr\IeC {\'e}quentiel}{6}{subsubsection.2.5.4}
+\contentsline {section}{\numberline {III}Elimination d\IeC {\textquoteright }une note par filtrage coupe-bande}{7}{section.3}
+\contentsline {subsection}{\numberline {i}Filtre num\IeC {\'e}rique coupe-bande de type Chebyshev 2}{7}{subsection.3.1}
+\contentsline {subsection}{\numberline {ii}L'allure temporelle et le spectre d'amplitude de la gamme filtr\IeC {\'e}e}{8}{subsection.3.2}
+\contentsline {subsection}{\numberline {iii}Le filtre RIF de longueur minimal (fen\IeC {\^e}tre de Kaiser)}{10}{subsection.3.3}
+\contentsline {subsection}{\numberline {iv}Comparaison entre le filtre de Chebychev de type 2 et celui de la RIF avec la fenetre de Kaiser}{10}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {iv.1}Conclusion}{11}{subsubsection.3.4.1}
